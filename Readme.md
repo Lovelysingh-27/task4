@@ -5,3 +5,6 @@
  index.html 
  style.css
  Readme.md
+
+ ## How to run
+  Open index.html file in a web browser.
